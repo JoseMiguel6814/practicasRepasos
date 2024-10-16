@@ -71,7 +71,7 @@
             </button>
           </div>
 
-          <button type="button" class="btn btn-primary btn-lg btn-block">CALCULADORA!!</button>
+         <a href="{{route('Vcalculadora')}}"class="btn btn-primary">calculadora!!! :D </a>
     </div>
 
     <!-- Contact Section -->
